@@ -1,4 +1,4 @@
-👋 Bonjour, je suis Lawali Ibrahim Mahaman Sanoussi
+Bonjour, je suis Lawali Ibrahim Mahaman Sanoussi
 
 🎯 **Consultant en Finances Publiques & Développement Local**  
 📍 Maradi, Niger 🇳🇪
@@ -49,7 +49,7 @@ Je suis fondateur du cabinet **FINDEV CONSEIL NIGER**, spécialisé dans :
 
 
 
-![Niger](https://img.shields.io/badge/Localisation-Maradi%2C_Niger_🇳🇪-red?style=flat-square)
+![Niger](https://img.shields.io/badge/Localisation-Maradi%2C_Niger-red?style=flat-square)
 
 
 
@@ -63,19 +63,4 @@ Je suis fondateur du cabinet **FINDEV CONSEIL NIGER**, spécialisé dans :
 
 ---
 
-> *"Le développement local commence par une bonne gestion des ressources publiques."*## Hi there 👋
-
-<!--
-**sanoussilawali31-cyber/sanoussilawali31-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Le développement local commence par une bonne gestion des ressources publiques."*
